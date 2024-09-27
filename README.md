@@ -27,7 +27,7 @@ number is even or not.
 >
 > We here poke fun at everything.
 
-Math will change you know?
+Math might will change you know?
 
 ![Abstraction](res/abstraction.png)
 
