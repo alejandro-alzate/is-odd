@@ -9,7 +9,7 @@
 ---Does this need explanation? Really???
 ---
 ---Okay here:
----Returns if a number is even or odd.
+---Returns true if a number is odd.
 ---
 ---`true`: The number is odd. (1,3,4,5,6 [...] *2n+1* to infinity)
 ---
