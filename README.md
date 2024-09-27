@@ -10,6 +10,7 @@
 - [Features](#Features)
 - ~~[Flaws](#Flaws)~~ IT'S FLAWLESS!!
 - [Overview](#overview)
+- [Sources](#sources)
 
 ## Features
 - Easy to use.
@@ -26,6 +27,12 @@ number is even or not.
 >
 > We here poke fun at everything.
 
+Math will change you know?
+![Abstraction](res/abstraction.png)
+
+Bonus content: isEven.lua
+![Bro leaked the source](res/sourceCode.png)
+
 [Wtf.js](https://github.com/denysdovhan/wtfjs) might have an explanation to this.
 
 Just witness the [Funny math](https://github.com/denysdovhan/wtfjs#funny-math) section.
@@ -38,3 +45,6 @@ Absolutely no one but JavaScript:
 
 Everyone else:
 ![Balanced, as all things should be](res/isEvenNeeded.png)
+
+## Sources
+[Original Post](https://www.reddit.com/r/ProgrammerHumor/comments/1fo2scv/whydoesthislibraryevenexist/)
