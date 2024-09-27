@@ -28,9 +28,11 @@ number is even or not.
 > We here poke fun at everything.
 
 Math will change you know?
+
 ![Abstraction](res/abstraction.png)
 
-Bonus content: isEven.lua
+Bonus content: [isEven.lua](src/isEven.lua)
+
 ![Bro leaked the source](res/sourceCode.png)
 
 [Wtf.js](https://github.com/denysdovhan/wtfjs) might have an explanation to this.
